@@ -1,0 +1,19 @@
+{
+  "name": "voiture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sha-21/voiture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sha-21/voiture/issues"
+  },
+  "homepage": "https://github.com/Sha-21/voiture#readme"
+}
